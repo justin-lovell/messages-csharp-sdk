@@ -6,7 +6,7 @@
 <Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <RootNamespace>MessageMedia.Messages</RootNamespace>
-    <AssemblyName>MessageMediaMessages.PCL</AssemblyName>
+    <AssemblyName>MessageMedia.SDK.Messages</AssemblyName>
     <OutputType>Library</OutputType>
     <OutputPath>bin/DEBUG/</OutputPath>
     <ProjectGuid>{aecfc1c1-e357-4806-8d0f-42db80aaeed3}</ProjectGuid>
